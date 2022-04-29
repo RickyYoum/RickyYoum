@@ -2,7 +2,8 @@
 
 Hello, my name is Ricky. I am:
 - 👨‍🎓 An undergraduate student at McGill University
-- 🏫 Major Computer Science 💻 and minor Musical Science and Technology🎼
+- 💻 Majoring Computer Science 
+- 🎼 Minoring Musical Science and Technology
 - 🌱 Currently learning Node.js
 - 👀 Check my portfolio: 
 https://img.shields.io/endpoint?label=Java&url=Java

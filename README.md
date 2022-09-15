@@ -3,7 +3,6 @@
 Hello, my name is Ricky. I am:
 - 👨‍🎓 An undergraduate student at McGill University
 - 💻 Majoring Computer Science 
-- 🎼 Minoring Musical Science and Technology
 
 
 ---

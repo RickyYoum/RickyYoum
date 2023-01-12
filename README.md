@@ -6,7 +6,7 @@ Hello, my name is Ricky:
 - 👩‍💻 Keen interest in Software Development and Game Development
 - 🔭 I’m currently studying C# and Unity Engine
 
-Find my work on my (portfolio!)[https://rickyyoum.github.io/]
+Find my work on my [portfolio](https://rickyyoum.github.io/)
 <!--
 **RickyYoum/RickyYoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

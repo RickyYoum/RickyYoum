@@ -1,5 +1,5 @@
 ## About Me
 
-Hello, my name is Ricky, a computer science graduate from McGill University. I am actively seeking opportunities within the Software and Game development sphere, be it an internship or a role at a company. I am enthusiastic about contributing my technical expertise, creative insights, and passion for software develoment to a dynamic and innovative team. 
+Hello, I’m Ricky, a computer science graduate from McGill University. While I have a strong foundation in software and game development, I am also open and eager to explore opportunities beyond strictly technical roles. I bring not only technical skills but creativity, adaptability, and a passion for learning to any team or project.
 
-If you're seeking an eager and dedicated team member or are interested in collaborating on exciting projects, feel free to contact me!
+Whether it’s an internship, a full-time position, or a collaboration on innovative projects—tech-related or otherwise—I’m excited to contribute and grow. Feel free to reach out if you’re looking for a motivated and flexible team member!
